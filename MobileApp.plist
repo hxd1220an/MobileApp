@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.26.64.220:1988/MobileApp/app/MobileApp.ipa</string>
+					<string>http://119.254.89.21:1988/MobileApp/app/MobileApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.64.220:1988/MobileApp/app/icon@2x.png</string>
+					<string>http://119.254.89.21:1988/MobileApp/app/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.64.220:1988/MobileApp/app/icon.png</string>
+					<string>http://119.254.89.21:1988/MobileApp/app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
