@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+    <key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.26.64.222:1988/MobileApp/app/MobileApp.ipa</string>
+					<string>http://114.141.187.116:1988/MobileApp/app/MobileApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.64.222:1988/MobileApp/app/icon@2x.png</string>
+					<string>http://114.141.187.116:1988/MobileApp/app/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.64.222:1988/MobileApp/app/icon.png</string>
+					<string>http://114.141.187.116:1988/MobileApp/app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.tomorrow.tomorrowOA</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.7.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>MobileApp</string>
 				<key>title</key>
-				<string>MobileApp</string>
+				<string>智云</string>
 			</dict>
 		</dict>
 	</array>
